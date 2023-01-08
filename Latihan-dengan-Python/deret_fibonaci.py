@@ -1,3 +1,4 @@
+#  variable n untuk memasukkan banyak deret yang diinginkan 
 n = int(input("Masukkan panjang deret: "))
 
 n1 = 0
